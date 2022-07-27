@@ -1,5 +1,5 @@
 - 👋 Hi folks, I’m Atharva-C
-- 
+
 - 👀 I’m interested in Web Development, DSA
 
 - 🌱 I’m currently learning Java
