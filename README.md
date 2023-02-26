@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI/ML
 
-- 🌱 I’m currently learning Web development and DSA
+- 🌱 I’m currently learning React and DSA
 
 
 
