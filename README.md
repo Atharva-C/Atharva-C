@@ -1,4 +1,4 @@
-- 👋 Hi folks, I’m Atharva-C
+- 👋 Hello folks, I’m Atharva-C
 
 - 👀 I’m interested in AI/ML
 
