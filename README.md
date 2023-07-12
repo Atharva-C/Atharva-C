@@ -4,7 +4,7 @@
 
 - 👀 I’m also interested in AI/ML
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,fastapi,gcp,git,linkedin,netlify,nodejs,php,r,react,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,fastapi,gcp,git,linkedin,netlify,nodejs,php,r,react,vscode,wordpress)](https://skillicons.dev)
 
 - My Hacktoberfest 2022 badges--
 
