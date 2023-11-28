@@ -1,4 +1,4 @@
-- 👋 Hello folks, I’m Atharva-C
+- 👋 Hello folks, I’m Atharva
 
 - 🌱 I’m currently learning React and DSA
 
