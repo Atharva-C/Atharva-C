@@ -1,6 +1,6 @@
 ![image](https://github.com/Atharva-C/aadarsh231099/assets/92793651/b98e5400-0b54-4482-ba71-8f6c7d76e653)
 
-<img align="right" height="350px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
+<img align="right" height="320px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
  
 <p>
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
