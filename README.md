@@ -8,7 +8,9 @@
 
 - I'm a final year Undergraduate @Pimpri Chinchwad college of Engineering
  
-- I’m looking to collaborate with other developers.
+- I'm currently doing DSA
+
+- I also take keen interest in Web development and AI-ML
 
 - Ask me about anything, would love to help.
 
