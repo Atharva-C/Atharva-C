@@ -93,7 +93,6 @@
 
 </p>
 
-<br/>
 
 <p>
   <h1 align="center"><b>🏆 Github Trophies 🏆</b></h1>
