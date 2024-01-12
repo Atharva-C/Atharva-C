@@ -34,9 +34,8 @@
 <br/><br/>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Atharva-C.Atharva-C" target="_blank" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
-<br/><br/>
+
 <!-- <a href="https://www.buymeacoffee.com/aadarshhanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-<br/><br/>
 <a href="https://github.com/Atharva-C?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Atharva-C?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"></a>
 </p>
 <br/>	
