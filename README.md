@@ -6,7 +6,7 @@
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
 </p>
 
-- I'm a final year Undergraduate @Pimpri Chinchwad college of Engineering
+- I'm a final year Undergraduate @**Pimpri Chinchwad college of Engineering**
  
 - I'm currently doing DSA
 
